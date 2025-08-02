@@ -18,7 +18,6 @@
 ## 🚀 About Me
 
 I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. 
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -55,7 +54,7 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
 
 ### 🌐 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
@@ -68,7 +67,6 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/ChromaDB-5C3EE8?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 
 
 ### 📫 Connect With Me
