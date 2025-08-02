@@ -1,10 +1,8 @@
-<h1 align="center">Hey 👋, I'm Arav Mehta</h1>
+# Hey 👋, I'm Arav Mehta
 
-<p align="center">
-  <b>Aspiring Software Engineer</b>
-</p>
+**Aspiring Software Engineer**
 
-<hr style="border: none; height: 0.5px; background-color: #444; margin: 16px 0;" />
+<hr style="border: none; height: 1px; background-color: #333; margin: 16px 0;" />
 
 
 ## 🚀 About Me
