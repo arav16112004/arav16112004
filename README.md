@@ -1,10 +1,5 @@
-
-<h1 align="center">Hey 👋, I'm Arav Mehta</h1>
-<p align="center"><strong>Aspiring Software Engineer</strong></p>
-<hr style="border: none; height: 1px; background-color: #333; margin: 4px auto 8px;" />
-
-
-
+# Hey 👋, I'm Arav Mehta
+##Aspiring Software Engineer**
 ## 🚀 About Me
 
 I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. 
