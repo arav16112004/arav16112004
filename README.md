@@ -4,7 +4,7 @@
   <b>Aspiring Software Engineer</b>
 </p>
 
-<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;" />
+<hr style="border: 0; height: 0.5px; background: #333; margin: 20px 0;" />
 
 ## 🚀 About Me
 
