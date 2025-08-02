@@ -4,7 +4,6 @@
   <b>Aspiring Software Engineer</b>
 </p>
 
----
 
 ## 🚀 About Me
 
