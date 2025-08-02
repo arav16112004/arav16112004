@@ -60,9 +60,23 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
 </p>
 
 
-### 📫 Connect With 
+### 📫 Connect With me
 
+<p align="center">
+  I'm always up for connecting with like-minded individuals.<br />
+  Please feel free to reach out if you want to collaborate, exchange ideas, or just connect
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravmehta" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:arav4mehta@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 - Portfolio: [anmehta71.wixsite.com/aravmehta](https://anmehta71.wixsite.com/aravmehta)
 - GitHub: [@arav16112004](https://github.com/arav16112004)
-- Email: [anmehta@umass.edu](mailto:anmehta@umass.edu)
+- Email: [arav4mehta@gmail.com](mailto:arav4mehta@gmail.com)
