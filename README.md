@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋, I'm Arav Mehta</h1>
+
 <p align="center">
   <b>Aspiring Software Engineer</b>
 </p>
-
+---
 
 ## 🚀 About Me
 
