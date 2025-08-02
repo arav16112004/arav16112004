@@ -4,7 +4,8 @@
   <b>Aspiring Software Engineer</b>
 </p>
 
-<hr style="border: 0; height: 0.5px; background: #333; margin: 10px 0;" />
+<hr style="border: none; height: 0.5px; background-color: #444; margin: 16px 0;" />
+
 
 ## 🚀 About Me
 
@@ -31,16 +32,15 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LlamaIndex-111?style=for-the-badge&logo=llama&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud Services
 <p>
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SageMaker-4B612C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
