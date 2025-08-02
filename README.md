@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer**
 
-<hr style="border: none; height: 1px; background-color: #333; margin: 16px 0;" />
+## &nbsp;
 
 
 ## 🚀 About Me
