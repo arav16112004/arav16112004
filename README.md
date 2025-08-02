@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. From low-level systems to AI-powered SaaS, I love solving real-world problems end-to-end.
+I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. 
 
 ## 🛠 Tech Stack
 
