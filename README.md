@@ -4,15 +4,6 @@
   <b>Aspiring Software Engineer</b>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aravmehta" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:anmehta@umass.edu">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -69,7 +60,8 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
 </p>
 
 
-### 📫 Connect With Me
+### 📫 Connect With 
+
 
 - Portfolio: [anmehta71.wixsite.com/aravmehta](https://anmehta71.wixsite.com/aravmehta)
 - GitHub: [@arav16112004](https://github.com/arav16112004)
