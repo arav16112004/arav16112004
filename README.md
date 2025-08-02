@@ -33,7 +33,7 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
 ### ☁️ Cloud Services
 <p>
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SageMaker-4B612C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS SageMaker-4B612C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ### 🌐 Frontend
