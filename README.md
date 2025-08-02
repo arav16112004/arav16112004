@@ -28,6 +28,8 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LlamaIndex-111?style=for-the-badge&logo=llama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract OCR-5A5A5A?style=for-the-badge&logo=tesseract&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-008000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### ☁️ Cloud Services
