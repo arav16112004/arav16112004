@@ -1,5 +1,4 @@
 # Hey 👋, I'm Arav Mehta
-
 **Aspiring Software Engineer**
 
 ## &nbsp;
