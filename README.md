@@ -19,45 +19,6 @@
 
 I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. From low-level systems to AI-powered SaaS, I love solving real-world problems end-to-end.
 
-- 🔭 Currently working on **multimodal ML**, document QA, and cloud-hosted ML deployment
-- 💡 Exploring LLM pipelines, RAG, and scalable inference strategies
-- 📚 Courses: DSA, Systems, Web Dev, Linear Algebra, Multivariable Calc, OOP, Operating Systems
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**: `Python` `Java` `JavaScript` `TypeScript` `C++` `SQL`
-
-**Frameworks**: `React` `Next.js` `Flask` `Node.js` `Tailwind CSS` `PyTorch` `Auth.js`
-
-**Cloud & Tools**: `AWS SageMaker` `AWS S3` `GitHub Actions` `TensorBoard` `FFMPEG` `OpenCV`  
-**Concepts**: `Multimodal Learning` `OCR` `RAG` `NLP` `API Integration` `SaaS Architectures`
-
----
-
-## 💼 Experience
-
-- **AI Extern @ Outamation**: Built production-grade document QA chatbot using Gemini API, LlamaIndex, and RAG.
-- **SWE Intern @ Kohinoor Electronics**: Automated 1500+ product workflows, built inventory tools, and processed 4000+ records.
-- **Tech Assistant @ UMass**: Diagnosed & repaired 40+ multi-OS systems; improved uptime by 50%.
-
----
-
-## 📌 Featured Projects
-
-### 🎬 [Multimodal Sentiment Analysis SaaS](https://github.com/arav16112004/Multimodal-AI-App)
-> Real-time sentiment/emotion analysis from video using BERT + audio + frame embeddings  
-> 🚀 Powered by PyTorch, SageMaker, Tailwind, Auth.js  
-> 🔐 API Key auth, real-time inference, quota tracking
-
-### 🧠 [LLM Document QA Chatbot](https://github.com/arav16112004/LLM-document-QA-chatbot-Externship)
-> Chatbot with Google Gemini API over uploaded mortgage documents  
-> 🔍 40–60% factual improvement, 50% faster retrieval  
-> 🛠 RAG pipeline with HuggingFace, LlamaIndex, ChromaDB
-
----
-
 ## 🛠 Tech Stack
 
 ### 💻 Languages
