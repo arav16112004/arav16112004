@@ -1,8 +1,11 @@
-# Hey 👋, I'm Arav Mehta
+# 👋 Hey, I'm Arav Mehta  
 #### Aspiring Software Engineer
-## 🚀 About Me
 
-I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems that blend vision, language, and sound. 
+## 🚀 About Me
+I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems at the intersection of software engineering and AI.
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
@@ -23,8 +26,10 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/BERT-0051C3?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-8B8B8B?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FFMPEG-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Librosa-5A5A5A?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LlamaIndex-111?style=for-the-badge&logo=llama&logoColor=white"/>
@@ -32,13 +37,13 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/PyMuPDF-008000?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### ☁️ Cloud Services
+### ☁️ Cloud & Deployment
 <p>
   <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS SageMaker-4B612C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend & Auth
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -46,22 +51,23 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
 </p>
 
-### 📊 Data & Infra
+### 🗃️ Databases & Infra
 <p>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma ORM-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5C3EE8?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-5C3EE8?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+---
 
-### 📫 Connect With me
+## 📫 Connect With Me
 
 <p align="center">
-  I'm always up for connecting with like-minded individuals.<br />
-  Please feel free to reach out if you want to collaborate, exchange ideas, or just connect
+  Always open to new ideas, collaboration.<br />
+  Feel free to reach out if you'd like to connect!
 </p>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aravmehta" target="_blank">
@@ -72,6 +78,7 @@ I'm a Computer Science undergrad at **UMass Amherst**, passionate about building
   </a>
 </p>
 
-- Portfolio: [anmehta71.wixsite.com/aravmehta](https://anmehta71.wixsite.com/aravmehta)
-- GitHub: [@arav16112004](https://github.com/arav16112004)
-- Email: [arav4mehta@gmail.com](mailto:arav4mehta@gmail.com)
+- 🔗 Portfolio: [anmehta71.wixsite.com/aravmehta](https://anmehta71.wixsite.com/aravmehta)  
+- 🧠 GitHub: [@arav16112004](https://github.com/arav16112004)  
+- 📬 Email: [arav4mehta@gmail.com](mailto:arav4mehta@gmail.com)
+
