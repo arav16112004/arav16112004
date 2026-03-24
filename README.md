@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Arav Mehta  
-#### Aspiring Software Engineer
+#### Software Engineer
 
 ## 🚀 About Me
 I'm a Computer Science undergrad at **UMass Amherst**, passionate about building intelligent systems at the intersection of software engineering and AI.
